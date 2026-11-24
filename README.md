@@ -20,7 +20,7 @@ In 1983, the EPA created the “National Priorities List” (NPL), which categor
 
 The EPA’s Toxic Release Inventory (TRI) program documents pollutants for roughly 800 chemicals from operating factories. In certain sectors, facilities that release, treat, or recycle chemicals are required to report details on these chemicals to the EPA. Examples of TRI sites include manufacturing sites and natural gas processing facilities. The TRI program was established through the 1986 Emergency Planning and Community Right-to-Know Act, which provided a government mandate for public information on these hazards. 
 
-TRI is a mandatory program for qualifying manufacturing sectors. TRI data are annual (collected in July each year), multimedia (reflecting chemical emissions to air, water, and land), and broad (capturing a wide array of pollutants). For more on TRI sites, see here. 
+TRI is a mandatory program for qualifying manufacturing sectors. TRI data are annual (collected in July each year), multimedia (reflecting chemical emissions to air, water, and land), and broad (capturing a wide array of pollutants). For more on TRI sites, see [here](https://www.epa.gov/toxics-release-inventory-tri-program/what-toxics-release-inventory) . 
 
 The National Emissions Inventory (NEI) measure air emissions from 1990 onward. These data are categorized into one of the following: 
 •	Point sources, such as electric power plants, airports, and commercial facilities. 
@@ -29,36 +29,21 @@ The National Emissions Inventory (NEI) measure air emissions from 1990 onward. T
 •	Nonroad sources, including construction equipment, lawn and garden equipment, trains and boats. 
 •	Fire sources, including both wild and prescribed fires. 
 
-For more on NEI sites, see here.
+For more on NEI sites, see [here](https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei).
 
 The following table compares the data from these three programs: 
 
-	Brownfields	Superfund	TRI	NEI
-
-
-
-
-| Brownfields | Superfund | TRI | NEI | 
+| | Brownfields | Superfund | TRI | NEI | 
 | --- | --- | --- | --- | 
-| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 | Row 1, cell 4 | 
-| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 | Row 2, cell 4 |
+| Year data collection began | 1995 | 1980 | 1986| 1990 | 
+|Routine data collection | No | No (but observe if site added/dropped from Superfund list or NPL) | Annual | First in 1990, annually 1996-2002, every three years 2002-current | 
+| Site type | Spill or Defunct | Spill or Defunct | Spill or Operational  | Operational | 
+| Completeness | ~5-10%	 | 100% of federal prioritized sites (but likely missing other hazardous sites) | 	Close to 100%?	 | 		May vary across state/locality/tribe | 
+| Examples | Former gas station, dry cleaning facility | Former military installation | Current factory | 	Airport, vehicles, commercial factory, fire | 
+		
 
-
-Year data collection began 	1995	1980	1986	1990
-Routine data collection	No	No (but observe if site added/dropped from Superfund list or NPL)	Annual	First in 1990, annually 1996-2002, every three years 2002-current
-Site type	Spill or Defunct	Spill or Defunct	Spill or Operational 	Operational
-Completeness	~5-10%	100% of federal prioritized sites (but likely missing other hazardous sites)	Close to 100%?	May vary across state/locality/tribe
-Examples	Former gas station, dry cleaning facility	Former military installation	Current factory	Airport, vehicles, commercial factory, fire
-
-Year data collection began 	1995	1980	1986	1990
-Routine data collection	No	No (but observe if site added/dropped from Superfund list or NPL)	Annual	First in 1990, annually 1996-2002, every three years 2002-current
-Site type	Spill or Defunct	Spill or Defunct	Spill or Operational 	Operational
-Completeness	~5-10%	100% of federal prioritized sites (but likely missing other hazardous sites)	Close to 100%?	May vary across state/locality/tribe
-Examples	Former gas station, dry cleaning facility	Former military installation	Current factory	Airport, vehicles, commercial factory, fire
-
- 
 4. What isn’t included
-The ACRES database identifies over 40,000 brownfield sites. However, there are an estimated 450,000 – 1 million brownfield sites in existence nationwide (see the EPA's Brownfield FAQs). The ACRES dataset only contains brownfields that have received federal funding for remediation efforts, which is a key limitation and selection issue of these data. 
+The ACRES database identifies over 40,000 brownfield sites. However, there are an estimated 450,000 – 1 million brownfield sites in existence nationwide (see the [EPA's Brownfield FAQs](https://19january2021snapshot.epa.gov/brownfields/frequently-asked-questions_.html#Without%20a%20national%20inventory%20of%20all%20brownfield%20sites,%20why%20does%20EPA%20think%20there%20could%20be%20somewhere%20between%20450,000-1%20million%20brownfield%20sites%20in%20the%20U.S.?)). The ACRES dataset only contains brownfields that have received federal funding for remediation efforts, which is a key limitation and selection issue of these data. 
 
 The TRI data include facilities that produce at least 100 pounds of pollution. 
 
@@ -68,11 +53,11 @@ The NEI is collected from states, localities, and tribal sources, which vary in 
 
 California has a different onroad pollution model than other states, which use the MOVES model. 
 6. Additional Documentation
-Superfund Documentation: homepage 
+Superfund Documentation: [homepage](https://www.epa.gov/superfund) 
 
-Brownfield Documentation: 2026
+Brownfield Documentation: [2026](https://www.epa.gov/cleanups/cleanups-my-community-about-data)
 
-TRI Documentation: 2024
+TRI Documentation: [2024](https://www.epa.gov/system/files/documents/2025-09/basic_data_files_documentation_august_2024.pdf)
 
-NEI Documentation: 2017, 
+NEI Documentation: [2017](https://www.epa.gov/sites/default/files/2021-02/documents/nei2017_tsd_full_jan2021.pdf), 
 
