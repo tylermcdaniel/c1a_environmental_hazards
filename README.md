@@ -34,6 +34,14 @@ For more on NEI sites, see here.
 The following table compares the data from these three programs: 
 
 	Brownfields	Superfund	TRI	NEI
+
+		Brownfields	Superfund	TRI	NEI
+Year data collection began 	1995	1980	1986	1990
+Routine data collection	No	No (but observe if site added/dropped from Superfund list or NPL)	Annual	First in 1990, annually 1996-2002, every three years 2002-current
+Site type	Spill or Defunct	Spill or Defunct	Spill or Operational 	Operational
+Completeness	~5-10%	100% of federal prioritized sites (but likely missing other hazardous sites)	Close to 100%?	May vary across state/locality/tribe
+Examples	Former gas station, dry cleaning facility	Former military installation	Current factory	Airport, vehicles, commercial factory, fire
+
 Year data collection began 	1995	1980	1986	1990
 Routine data collection	No	No (but observe if site added/dropped from Superfund list or NPL)	Annual	First in 1990, annually 1996-2002, every three years 2002-current
 Site type	Spill or Defunct	Spill or Defunct	Spill or Operational 	Operational
