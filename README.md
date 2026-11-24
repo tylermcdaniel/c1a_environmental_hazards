@@ -34,7 +34,7 @@ For more on NEI sites, see [here](https://www.epa.gov/air-emissions-inventories/
 The following table compares the data from these three programs: 
 
 | | Brownfields | Superfund | TRI | NEI | 
-| --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- |
 | Year data collection began | 1995 | 1980 | 1986| 1990 | 
 |Routine data collection | No | No (but observe if site added/dropped from Superfund list or NPL) | Annual | First in 1990, annually 1996-2002, every three years 2002-current | 
 | Site type | Spill or Defunct | Spill or Defunct | Spill or Operational  | Operational | 
