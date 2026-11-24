@@ -1,4 +1,4 @@
-# Understanding Hazardous Site Data
+# Hazardous Site Data
 
 A primer for the contaminated site area-level enhancement data sets: Where contaminated site data come from, how its tables work, how to link them to further information, and what the known caveats are.
 1. Purpose of this document
