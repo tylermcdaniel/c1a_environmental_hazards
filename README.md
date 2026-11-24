@@ -35,7 +35,11 @@ The following table compares the data from these three programs:
 
 	Brownfields	Superfund	TRI	NEI
 
-		Brownfields	Superfund	TRI	NEI
+| --- | --- | --- |
+| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 |
+| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
+
+
 Year data collection began 	1995	1980	1986	1990
 Routine data collection	No	No (but observe if site added/dropped from Superfund list or NPL)	Annual	First in 1990, annually 1996-2002, every three years 2002-current
 Site type	Spill or Defunct	Spill or Defunct	Spill or Operational 	Operational
